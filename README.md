@@ -1,50 +1,9 @@
 # CSA09 – Programming in Java: Assignment 2 (CO2)
 
-- **Student Name:** Rahul Reddy
-- **Register Number:** 192324214
+- **Student Name:** Y.Sreenadh
+- **Register Number:** 192525166
 - **Course:** CSA09 – Programming in Java (CO2: Strings, Regular Expressions & Java Collections Framework)
 - **Java Version:** Java 17 / Java 21 (JDK 17+ recommended)
-
----
-
-## Repository Structure
-
-```text
-CSA09-192324214-Assignment2/
-├── README.md                  # Repository overview, compile/run steps & summary of results
-├── docs/
-│   └── Assignment2_Report.md  # Complete written analysis, predictions, Big-O derivations & Q7 Design Challenge
-├── Q1/                        # String vs StringBuilder vs StringBuffer (Railway e-Ticket)
-│   ├── TicketBenchmark.java
-│   ├── sample_tickets.csv
-│   └── README.md
-├── Q2/                        # ArrayList vs LinkedList vs ArrayDeque (Music Playlist Editor)
-│   ├── PlaylistBenchmark.java
-│   ├── playlist_input.txt
-│   └── README.md
-├── Q3/                        # hashCode-equals Contract (Event Attendance De-duplication)
-│   ├── Attendance.java
-│   ├── AttendanceInquiry.java
-│   ├── gate_scans.csv
-│   └── README.md
-├── Q4/                        # HashMap vs TreeMap vs LinkedHashMap (Pharmacy Stock Lookup)
-│   ├── PharmacyInventoryBenchmark.java
-│   ├── medicines_input.csv
-│   └── README.md
-├── Q5/                        # Generics, Comparable & Comparator (Sports Leaderboard)
-│   ├── LeaderboardDemo.java
-│   ├── LeaderboardTestSuite.java
-│   ├── teams_input.csv
-│   └── README.md
-├── Q6/                        # PriorityQueue & Fairness (Hospital Emergency Triage)
-│   ├── Triage.java
-│   ├── TriageBenchmarkAndFairness.java
-│   ├── patients_input.csv
-│   └── README.md
-└── Q7/                        # Day-4 Design Challenge (Diagnose, Redesign & Validate)
-    ├── PharmacyRedesignValidation.java
-    └── README.md
-```
 
 ---
 
